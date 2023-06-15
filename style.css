@@ -1,0 +1,14 @@
+/*
+    Theme Name: Arlington-Highshool
+    Author: We will code this theme
+    Version: 1.0
+*/
+body {
+  color: white;
+}
+p {
+  color: green;
+}
+h1 {
+  color: red !important;
+}
